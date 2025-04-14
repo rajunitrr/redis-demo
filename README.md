@@ -1,5 +1,13 @@
 
 
+Redis Download 
+https://github.com/MicrosoftArchive/redis/releases/download/win-3.0.504/Redis-x64-3.0.504.msi.
+
+Setup step by step
+Refer : https://priyankdesai515.medium.com/install-redis-on-windows-10-fda2472bf195
+
+
+
 1. Set a key in Redis:
 
 GET http://localhost:8080/set?key=mykey&value=HelloRedis
